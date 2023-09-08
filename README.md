@@ -3,12 +3,12 @@
 </p>
 
 <h1>Install Software In a Linux Distrubution Lab 1 & 2</h1>
-This tutorial outlines the Google Cybersecuirty Lab 1 & 2 and a break down of how to install software in a linux distrubtion.<br />
+This tutorial outlines the Google Cybersecurity Lab 1 & 2 and a break down of how to install software in a Linux distributions.<br />
 
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Configure osTicket, post-installation](https://www.youtube.com)
+- ### [YouTube: Final Google Cyber Lab 1 & 2 Exemplar Install Software In A Linux Distrubution](https://youtu.be/h_MbV0bmAS8)
 
 <h2>Environments and Technologies Used</h2>
 
